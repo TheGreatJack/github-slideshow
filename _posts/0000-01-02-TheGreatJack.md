@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Matenlos a todos, Dios reconocera a los suyos" 
 Use the left arrow to go back!
